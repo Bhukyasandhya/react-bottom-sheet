@@ -1,0 +1,9 @@
+body {
+  margin: 0;                             /* Removes default browser margin */
+  font-family: 'Segoe UI', sans-serif;  /* Sets a clean, readable font */
+  background: #f0f0f0;                   /* Light grey background */
+}
+
+h1 {
+  margin-top: 40px;                      /* Adds spacing from the top */
+}
